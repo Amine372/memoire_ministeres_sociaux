@@ -6,4 +6,7 @@
 		=>Trouver la maniere de stocker et d'intéragir avec les données
 			Nous avons fait le choix d'uttiliser un SGBD basé sur l'architecture client/serveur à la place d'un fichier plat JSON fourni par légisitère, de MongoDB ou de SQLite
 			Le choix naturel, après avoir choisi ce type de SGBD a été celui uttilisé dans le cadre de la philosophie du logiciel libre au sein des administrations: PostgreSQL
-			Modélisation de la base de données de Cod'It à travers un MCD détaillé sous la forme d'un diagramme de Merise.
+			Modélisation de la base de données de Cod'It à travers un MCD détaillé sous la forme d'un diagramme de Merise, en uttilisant le logiciel Jmerise etudiant.
+	=>Développement de sections de fonctionalités à partir du cahier des charges détaillé
+		Uttilisation de mon ordinateur personel en attendant mes nouveaux droits d'admin
+		
