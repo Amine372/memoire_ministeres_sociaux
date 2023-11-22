@@ -13,4 +13,4 @@
 		=>Utiilisation d'une machine virtuelle sur mon pc pro.
 			Cette machine virtuelle me permettait d'avoir un environnement d'execution sous linux, plus à meme à s'adapter aux standarts de l'informatique et à offrir une certaine souplesse et une certaine universalité
 			J'uttilisais pour cela le logiciel virtualbox afin de gérer mes VM, ce qui m'a amener à toucher au monde fascinant de la virtualisation. J'uttilisais notement un accès par pont afin que le DHCP du réseau ministériel puisse attribuer une adresse ip à ma machine virtuelle au meme titre qu'a ma machine physique, ce qui est important pour la suite.
-			L'accès par pont
+			L'accès par pont me permettait d'uttiliser l'extension de VsCode SSH Remote Desktop qui permettait de programmer en uttilisant l'IDE sur ma machine physique tout en assurant la liaison à mon environnement d'execution, en l'occurence à ma machine virtuelle, via le réseau local en uttilisant le port 22 pour user du protocole SSH et SFTP
