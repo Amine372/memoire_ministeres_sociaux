@@ -3,4 +3,6 @@
 		programation en python, le temps que j'ai des droits d'admins
 		programation en utilisant le logiciel Talend afin de pouvoir mapper les données dans le bon format. Un ETL est un bon moyen de ne pas avoir à réinventer la roue.
 		programmation en NodeJS afin de pouvoir profiter de la diversité de librairies tout en veillant à la stabilité du langage de programmation
-		=>Trouver la manier de stocker et d'intéragir avec les données
+		=>Trouver la maniere de stocker et d'intéragir avec les données
+			Nous avons fait le choix d'uttiliser un SGBD basé sur l'architecture client/serveur à la place d'un fichier plat JSON fourni par légisitère, de MongoDB ou de SQLite
+			Le choix naturel, après avoir choisi
