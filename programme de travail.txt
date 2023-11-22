@@ -1,4 +1,5 @@
 =>mon objectif initial a été de redévelopper un logiciel dépassé en respectant un nouveau cahier des charges tout en ayant une assez grande liberté sur la manière de satisfaire ces attentes
-	programation en python, le temps que j'ai des droits d'admins
-	programation en utilisant le logiciel Talend afin de pouvoir mapper les données dans le bon format. Un ETL est un bon moyen de ne pas avoir à réinventer la roue.
-	programmation en NodeJS afin de pouvoir profiter de la diversité de librairies tout en veillant à la stabilité du langage de programmation
+	=>Trouver une structure pour développer cod'it
+		programation en python, le temps que j'ai des droits d'admins
+		programation en utilisant le logiciel Talend afin de pouvoir mapper les données dans le bon format. Un ETL est un bon moyen de ne pas avoir à réinventer la roue.
+		programmation en NodeJS afin de pouvoir profiter de la diversité de librairies tout en veillant à la stabilité du langage de programmation
