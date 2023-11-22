@@ -9,4 +9,5 @@
 			Modélisation de la base de données de Cod'It à travers un MCD détaillé sous la forme d'un diagramme de Merise, en uttilisant le logiciel Jmerise etudiant.
 	=>Développement de sections de fonctionalités à partir du cahier des charges détaillé
 		Uttilisation de mon ordinateur personel en attendant mes nouveaux droits d'admin
-		
+		Uttilisation provisoire d'une machine virtuelle hébergée car mon pc perso manquait de puissance, ce qui m'a amené à découvrir le monde de l'administration réseau et j'en tire un imense bagage
+		Utiilisation d'une machine virtuelle sur mon pc pro, afin d'avoir un environnement d'execution sous linux
