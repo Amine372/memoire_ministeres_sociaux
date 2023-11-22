@@ -10,4 +10,6 @@
 	=>Développement de sections de fonctionalités à partir du cahier des charges détaillé
 		Uttilisation de mon ordinateur personel en attendant mes nouveaux droits d'admin
 		Uttilisation provisoire d'une machine virtuelle hébergée car mon pc perso manquait de puissance, ce qui m'a amené à découvrir le monde de l'administration réseau et j'en tire un imense bagage
-		Utiilisation d'une machine virtuelle sur mon pc pro, afin d'avoir un environnement d'execution sous linux
+		=>Utiilisation d'une machine virtuelle sur mon pc pro.
+			Cette machine virtuelle me permettait d'avoir un environnement d'execution sous linux, plus à meme à s'adapter aux standarts de l'informatique et à offrir une certaine souplesse et une certaine universalité
+			J'uttilisais pour 
