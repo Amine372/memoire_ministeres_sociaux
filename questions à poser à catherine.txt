@@ -1,6 +1,0 @@
-examiner et enrichir la nouvelle introduction
-vérifier l'ordre des sous-sections lors de la présentation du Ministère
-demander son avis sur le nouveau paragraphe que j'ai rajouté quand j'ai abordé le logiciel Talend
-vérifier la nouvelle version de la sous-section dur DBeaver
-regarder la nouvelle version où j'organise la partie relative à la modélisation de la base de données à l'intérieur de celle consacrée au développement de cod'it
-reagarder si ce que je dis sur postgresql est vrai quant au chois de son utilisation
